@@ -1,3 +1,15 @@
+## Overview
+This is a simple TODO List application built using React.js. It allows users to create, search, complete, and delete tasks in a clean and user-friendly interface. The app is designed for organizing daily tasks and keeping track of activities efficiently.
+
+## Features
+- **Add Task**: Users can add new tasks to the TODO list.
+- **Search Task**: Users can search for specific tasks by typing keywords in the search bar.
+- **Complete Task**: Users can mark tasks as complete, visually indicating they are done.
+- **Delete Task**: Users can delete tasks from the list when no longer needed.
+- **Interactive UI**: Responsive and easy-to-use interface.
+
+This is the link to the deployed app: https://garzuzo.github.io/todo-machine/
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
