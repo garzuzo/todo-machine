@@ -1,0 +1,9 @@
+.main {
+    text-align: center;
+    justify-content: center;
+    background-color: aliceblue;
+    font-family: 'Montserrat';
+    margin: 0 24px;
+    position: relative;
+    min-height: 100vh;
+}

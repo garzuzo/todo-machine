@@ -1,0 +1,39 @@
+@keyframes slide {
+    0% {
+        transform: translateY(0);
+        opacity: 0.1;
+        background-position: 0% 50%;
+    }
+
+    5% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        transform: translateY(20px);
+        opacity: 0.15;
+        background-position: 0% 50%;
+
+    }
+}
+
+.loading {
+    animation: slide 3s ease-in-out infinite;
+    opacity: 0.10;
+    background-color: rgb(124, 121, 121);
+    margin-bottom: 20px;
+    line-height: 1.5;
+    border-radius: 5px;
+    font-size: 20px;
+    width: 50%;
+    height: 40px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1em;
+    height: auto;
+}

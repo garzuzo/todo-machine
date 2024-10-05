@@ -1,0 +1,14 @@
+input {
+    border-radius: 0.5rem;
+    font-size: 2rem;
+    justify-content: center;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+input:hover{
+    background-color: rgb(172, 171, 170);
+}
+
+input:focus{
+    outline-color: #61DAFA;
+}

@@ -1,0 +1,15 @@
+.addButton {
+    color: cadetblue;
+    font-size: 3rem;
+    text-align: left;
+    justify-content: left;
+    position: absolute;
+    transform: rotate(0);
+    transition: .3s ease;
+}
+
+.addButton:hover {
+    color: blue;
+    transform: rotate(224deg);
+        
+}

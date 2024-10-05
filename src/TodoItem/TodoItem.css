@@ -1,0 +1,38 @@
+li {
+    justify-content: center;
+    display: flex;
+    font-size: 2rem;
+
+}
+
+p {
+    margin: 0;
+}
+
+.TodoItem-p {}
+
+.TodoItem-p--complete {
+    text-decoration: line-through;
+}
+
+.check {
+    color: greenyellow;
+}
+
+.check--complete {
+    color: green;
+}
+
+
+.check:hover {
+    color: green;
+}
+
+.delete {
+    color: black;
+}
+
+.delete:hover {
+    color: rgb(192, 19, 19);
+
+}

@@ -1,0 +1,10 @@
+h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin: 0;
+    padding: 48px;
+    font-weight: normal;
+}
+span {
+    font-weight: bold;
+}
